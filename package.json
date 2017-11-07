@@ -1,0 +1,23 @@
+{
+  "name": "content-ws-prismic-trial",
+  "version": "0.1.0",
+  "description": "Trial front end app using Prismic backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashank-webscale/content-ws-prismic-trial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashank-webscale/content-ws-prismic-trial/issues"
+  },
+  "homepage": "https://github.com/shashank-webscale/content-ws-prismic-trial#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4"
+  }
+}
